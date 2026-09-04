@@ -1,12 +1,14 @@
-# 🖼️ Clasificador de Productos por Imagen
+# 🖼️ Product Image Classifier
 
-Modelo de clasificación de imágenes usando `transformers` y una interfaz simple con Gradio.
+An image classification model using Transformers with a simple Gradio interface.
 
-## 🚀 Funcionalidades
-- Subida de imágenes
-- Clasificación automática
-- Resultados en formato JSON
+## 🚀 Features
 
-## ▶️ Instalación
+- Image upload
+- Automatic image classification
+- Results returned in JSON format
+
+## ▶️ Installation
+
 ```bash
 pip install -r requirements.txt
